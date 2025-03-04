@@ -2,7 +2,7 @@
 
 A comprehensive guide to RNA-seq analysis workflows emphasizing reproducibility, quality control, and biological interpretation.
 
-![RNA-seq Pipeline Diagram](images/rnaseq_workflow.png)
+![image](https://github.com/user-attachments/assets/ea4a4388-0dda-4abd-bc90-a9e2eee537fb)
 
 ## Contents
 
